@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoearos00unkngoog_0008.png"; bbox 0 0 2414 4156; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 57 341 947 900">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 57 341 947 980">
+     <span class='ocr_line' id='line_1_1' title="bbox 57 341 947 573; baseline -0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 57 341 947 573; x_wconf 71' lang='lat' dir='ltr'>PHA&#39;RMAOOPOEA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 173 779 741 900; baseline -0.005 -1"><span class='ocrx_word' id='word_1_2' title='bbox 173 781 176 786; x_wconf 33' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_3' title='bbox 261 783 315 898; x_wconf 89' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_4' title='bbox 343 785 398 899; x_wconf 93' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_5' title='bbox 428 785 528 900; x_wconf 88' lang='lat' dir='ltr'><strong>SS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 555 782 583 895; x_wconf 94' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_7' title='bbox 610 781 658 897; x_wconf 91' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_8' title='bbox 686 779 741 896; x_wconf 84' lang='lat' dir='ltr'><strong>A</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 188 1103 950 1260">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 188 1103 950 1260">
+     <span class='ocr_line' id='line_1_3' title="bbox 188 1103 950 1260; baseline 0.001 -56"><span class='ocrx_word' id='word_1_9' title='bbox 188 1113 300 1206; x_wconf 82' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 364 1103 808 1234; x_wconf 62' lang='lat' dir='ltr'><strong>FENNmA&#39;</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 945 1253 950 1260; x_wconf 18' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 402 1771 608 2148">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 371 1771 845 2148">
+     <span class='ocr_line' id='line_1_4' title="bbox 402 1771 608 2148; baseline 0 -34"><span class='ocrx_word' id='word_1_12' title='bbox 402 1771 608 2148; x_wconf 45' lang='lat' dir='ltr'><em>Q</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 307 3157 691 3240">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 307 3157 691 3240">
+     <span class='ocr_line' id='line_1_5' title="bbox 307 3157 691 3240; baseline 0.003 -5"><span class='ocrx_word' id='word_1_13' title='bbox 307 3157 691 3240; x_wconf 82' lang='lat' dir='ltr'><strong>MEDIOLANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1212 4156">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1212 4156">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1212 4156; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1212 4156; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
